@@ -1,1 +1,3 @@
-This is for first commit from master branch
+This is for first modified commit from master branch
+
+this is for second commit from dev branch and modified above line
