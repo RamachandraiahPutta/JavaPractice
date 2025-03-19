@@ -1,5 +1,6 @@
 .git
 .settings/
 bin/
+out/
 .classpath
 .project
