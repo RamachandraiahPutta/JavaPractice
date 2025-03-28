@@ -12,6 +12,7 @@ public class ShortCircuitingStreamTest {
 		System.out.println(stream);
 		OptionalInt opt = stream.findFirst();
 		if (opt.isPresent()) {
+			System.out.println("Found: ");
 			System.out.println(opt.getAsInt());
 		}
 
